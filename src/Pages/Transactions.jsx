@@ -1,4 +1,4 @@
-import RecentTransactions from "../components/RecentTransactions";
+import RecentTransactions from "./Components/RecentTransactions";
 
 function Transactions() {
   return (

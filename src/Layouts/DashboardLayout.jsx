@@ -28,8 +28,8 @@
 // export default DashboardLayout;
 
 import { Outlet } from "react-router-dom";
-import Sidebar from "../components/Sidebar";
-import Header from "../components/Header";
+import Sidebar from "../Components/Sidebar";
+import Header from "../Components/Header";
 
 function DashboardLayout() {
   return (

@@ -5,12 +5,12 @@ import {
   DollarSign,
 } from "lucide-react";
 
-import StatCard from "../components/StatCard";
-import BalanceCard from "../components/BalanceCard";
-import ExpenseChart from "../components/ExpenseChart";
-import WeeklyActivity from "../components/WeeklyActivity";
-import QuickTransfer from "../components/QuickTransfer";
-import RecentTransactions from "../components/RecentTransactions";
+import StatCard from "../Components/StatCard";
+import BalanceCard from "../Components/BalanceCard";
+import ExpenseChart from "../Components/ExpenseChart";
+import WeeklyActivity from "../Components/WeeklyActivity";
+import QuickTransfer from "../Components/QuickTransfer";
+import RecentTransactions from "../Components/RecentTransactions";
 
 function Dashboard() {
   return (

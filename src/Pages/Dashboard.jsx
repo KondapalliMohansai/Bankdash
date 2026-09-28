@@ -7,7 +7,7 @@ import {
 
 import StatCard from "../Components/Statcard";
 import BalanceCard from "../Components/Balancecard";
-import ExpenseChart from "../Components/Expensechart";
+import ExpenseChart from "../Components/ExpenseChart";
 import WeeklyActivity from "../Components/WeeklyActivity";
 import QuickTransfer from "../Components/QuickTransfer";
 import RecentTransactions from "../Components/RecentTransactions";

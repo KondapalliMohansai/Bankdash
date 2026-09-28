@@ -125,15 +125,15 @@ import { Routes, Route } from "react-router-dom";
 
 import DashboardLayout from "./Layouts/DashboardLayout";
 
-import Dashboard from "./pages/Dashboard";
-import Transactions from "./pages/Transactions";
-import Accounts from "./pages/Accounts";
-import Investments from "./pages/Investments";
-import CreditCards from "./pages/CreditCards";
-import Loans from "./pages/Loans";
-import Services from "./pages/Services";
-import Settings from "./pages/Settings";
-import NotFound from "./pages/NotFound";
+import Dashboard from "./Pages/Dashboard";
+import Transactions from "./Pages/Transactions";
+import Accounts from "./Pages/Accounts";
+import Investments from "./Pages/Investments";
+import CreditCards from "./Pages/CreditCards";
+import Loans from "./Pages/Loans";
+import Services from "./Pages/Services";
+import Settings from "./Pages/Settings";
+import NotFound from "./Pages/NotFound";
 
 function App() {
   return (
